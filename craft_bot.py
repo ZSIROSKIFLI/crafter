@@ -11,11 +11,6 @@ from discord.ext import commands
 from discord import ui
 import math
 
-# ───────────────────────────────────────────────
-#  ⚙️  BEÁLLÍTÁSOK — EZEKET ÍROD ÁT
-# ───────────────────────────────────────────────
-BOT_TOKEN        = "IDE_IRD_BE_A_TOKEN_T"
-CRAFT_CHANNEL_ID = 123456789012345678   # annak a szobának az ID-ja ahova küldje
 
 # ───────────────────────────────────────────────
 #  CRAFT ADATOK
